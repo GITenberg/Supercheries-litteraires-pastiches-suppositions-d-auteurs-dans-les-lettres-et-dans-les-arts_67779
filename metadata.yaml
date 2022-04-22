@@ -1,0 +1,34 @@
+_repo: Supercheries-litteraires-pastiches-suppositions-d-auteurs-dans-les-lettres-et-dans-les-arts_67779
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Delepierre, Octave
+    alias: Delepierre, Joseph Octave
+    birthdate: 1802
+    deathdate: 1879
+    gutenberg_agent_id: '51846'
+    url: http://www.gutenberg.org/2009/agents/51846
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Octave_Delepierre
+    - https://en.wikipedia.org/wiki/Joseph_Octave_Delepierre
+description: ''
+gutenberg_issued: '2022-04-05'
+identifiers:
+  gutenberg: '67779'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k97630144
+pgterms:marc905: 20200304225226delepierre
+pgterms:marc906: '1872'
+pgterms:marc907: GB
+production_note: Laurent Vogel, Pierre Lacaze and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: United Kingdom :Trübner et Cie,1872.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Supercheries littéraires: pastiches, suppositions d''auteurs dans les lettres
+  et dans les arts'
+url: http://www.gutenberg.org/ebooks/67779
