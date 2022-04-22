@@ -1,5 +1,8 @@
 _repo: Supercheries-litteraires-pastiches-suppositions-d-auteurs-dans-les-lettres-et-dans-les-arts_67779
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67779-h/images/cover.jpg
 creator:
   author:
     agent_name: Delepierre, Octave
@@ -12,6 +15,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Octave_Delepierre
     - https://en.wikipedia.org/wiki/Joseph_Octave_Delepierre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67779#Supercheries-litteraires-pastiches-suppositions-d-auteurs-dans-les-lettres-et-dans-les-arts
 gutenberg_issued: '2022-04-05'
 identifiers:
   gutenberg: '67779'
